@@ -1,0 +1,713 @@
+LATEX 2ε Cheat Sheet
+Document classes
+book
+Default is two-sided.
+report
+No \part divisions.
+article No \part or \chapter divisions.
+letter
+Letter (?).
+slides
+Large sans-serif font.
+Used at the very beginning of a document:
+\documentclass{class}. Use \begin{document} to start
+contents and \end{document} to end the document.
+
+Common documentclass options
+Font size.
+Paper size.
+Use two columns.
+Set margins for two-sided.
+Landscape orientation. Must use dvips
+-t landscape.
+draft
+Double-space lines.
+Usage: \documentclass[opt,opt]{class}.
+10pt/11pt/12pt
+letterpaper/a4paper
+twocolumn
+twoside
+landscape
+
+Packages
+fullpage Use 1 inch margins.
+anysize Set margins: \marginsize{l}{r }{t}{b}.
+multicol Use n columns: \begin{multicols}{n}.
+latexsym Use LATEX symbol font.
+graphicx Show image: \includegraphics[width=x ]{file}.
+url
+Insert URL: \url{http://. . . }.
+Use before \begin{document}. Usage: \usepackage{package}
+
+Lists
+
+Justification
+
+\begin{enumerate} Numbered list.
+\begin{itemize}
+Bulleted list.
+\begin{description}Description list.
+\item text
+Add an item.
+\item[x ] text
+Use x instead of normal bullet or number.
+Required for descriptions.
+
+Environment
+\begin{center}
+\begin{flushleft}
+\begin{flushright}
+
+References
+
+\linespread{x} changes the line spacing by the multiplier x.
+
+Set a marker for cross-reference, often of the
+form \label{sec:item}.
+\ref{marker }
+Give section/body number of marker.
+\pageref{marker } Give page number of marker.
+\footnote{text} Print footnote at bottom of page.
+
+Text-mode symbols
+
+\label{marker }
+
+Floating bodies
+\begin{table}[place]
+Add numbered table.
+\begin{figure}[place] Add numbered figure.
+\begin{equation}[place] Add numbered equation.
+\caption{text}
+Caption for the body.
+The place is a list valid placements for the body. t=top,
+h=here, b=bottom, p=separate page, !=place even if ugly.
+Captions and label markers should be within the environment.
+
+Text properties
+
+\pagestyle{empty} Empty header, footer and no page numbers.
+\tableofcontents Add a table of contents here.
+
+Document structure
+
+Font size
+
+\author{text} Author of document.
+\title{text} Title of document.
+\date{text}
+Date.
+These commands go before \begin{document}. The
+declaration \maketitle goes at the top of the document.
+
+Miscellaneous
+
+\part{title}
+\subsubsection{title}
+\chapter{title}
+\paragraph{title}
+\section{title}
+\subparagraph{title}
+\subsection{title}
+Use \setcounter{secnumdepth}{x} suppresses heading
+numbers of depth > x, where chapter has depth 0. Use a *, as
+in \section*{title}, to not number a particular item—these
+items will also not appear in the table of contents.
+
+Text environments
+
+Large
+
+\tiny
+tiny
+\Large
+\scriptsize scriptsize
+\LARGE
+\footnotesize footnotesize
+\small
+small
+\huge
+\normalsize normalsize
+\large
+large
+\Huge
+These are declarations and should be used in the form {\small
+. . . }, or without braces to affect the entire document.
+
+LARGE
+
+huge
+
+Huge
+
+\begin{comment} Comment (not printed). Requires verbatim Verbatim text
+package.
+\begin{quote}
+Indented quotation block.
+\begin{quotation}Like quote with indented paragraphs.
+\begin{verse}
+Quotation block for verse.
+
+Miscellaneous
+
+Symbols
+&
+$
+%
+
+\&
+\$
+\%
+
+...
+|
+#
+
+\_
+\^{}
+\~{}
+
+ˆ
+˜
+
+\ldots
+\textbar
+\#
+
+•
+\
+§
+
+\textbullet
+\textbackslash
+\S
+
+Accents
+`
+o
+o˙
+¸c
+Œ
+ø
+
+
+\‘o
+\.o
+\c c
+\OE
+\o
+\j
+
+´
+o
+¨
+o
+o.
+æ
+Ø
+¡
+
+\’o
+\"o
+\d o
+\ae
+\O
+~‘
+
+ˆ
+o
+o
+¸
+o
+¯
+Æ
+l
+¿
+
+\^o
+\c o
+\b o
+\AE
+\l
+?‘
+
+[[
+]]
+
+((
+))
+
+˜
+o
+ˇ
+o
+oo
+˚
+a
+L
+
+\~o
+\v o
+\t oo
+\aa
+\L
+
+¯
+o
+˝
+o
+œ
+˚
+A
+ı
+
+\=o
+\H o
+\oe
+\AA
+\i
+
+Delimiters
+
+Font face
+Command
+Declaration
+Effect
+\textrm{text}
+{\rmfamily text} Roman family
+\textsf{text}
+{\sffamily text} Sans serif family
+\texttt{text}
+{\ttfamily text} Typewriter family
+\textmd{text}
+{\mdseries text} Medium series
+\textbf{text}
+{\bfseries text} Bold series
+\textup{text}
+{\upshape text}
+Upright shape
+\textit{text}
+{\itshape text}
+Italic shape
+\textsl{text}
+{\slshape text}
+Slanted shape
+\textsc{text}
+{\scshape text}
+Small Caps shape
+\emph{text}
+{\em text}
+Emphasized
+\textnormal{text}{\normalfont text}Document font
+\underline{text}
+Underline
+The command (tttt) form handles spacing better than the
+declaration (tttt) form.
+
+Title
+
+Declaration
+\centering
+\raggedright
+\raggedleft
+
+\begin{verbatim} Verbatim environment.
+\begin{verbatim*} Spaces are shown as .
+\verb!text!
+Text between the delimiting characters (in
+this case ‘!’) is verbatim.
+
+‘‘
+’’
+
+“ ‘‘
+” ’’
+
+{ \{
+} \}
+
+< \textless
+> \textgreater
+
+Dashes
+Name
+hyphen
+en-dash
+em-dash
+
+Source
+----
+
+Example
+X-ray
+1–5
+Yes—or no?
+
+Usage
+In words.
+Between numbers.
+Punctuation.
+
+Line and page breaks
+\\
+\\*
+\kill
+\pagebreak
+\noindent
+
+Begin new line without new paragraph.
+Prohibit pagebreak after linebreak.
+Don’t print current line.
+Start new page.
+Do not indent current line.
+
+Miscellaneous
+May 24, 2015.
+Prints ∼ instead of \~{}, which makes ˜.
+Space, disallow linebreak (W.J.~Clinton).
+Indicate that the . ends a sentence when following
+an uppercase letter.
+\hspace{l} Horizontal space of length l (Ex: l = 20pt).
+\vspace{l} Vertical space of length l.
+\rule{w}{h} Line of width w and height h.
+\today
+$\sim$
+~
+\@.
+
+Tabular environments
+tabbing environment
+\= Set tab stop.
+\> Go to tab stop.
+Tab stops can be set on “invisible” lines with \kill at the end
+of the line. Normally \\ is used to separate lines.
+
+tabular environment
+
+Citation types
+
+\begin{array}[pos]{cols}
+\begin{tabular}[pos]{cols}
+\begin{tabular*}{width}[pos]{cols}
+
+tabular column specification
+l
+c
+r
+p{width}
+@{decl}
+|
+
+Left-justified column.
+Centered column.
+Right-justified column.
+Same as \parbox[t]{width}.
+Insert decl instead of inter-column space.
+Inserts a vertical line between columns.
+
+tabular elements
+\hline
+Horizontal line between rows.
+\cline{x-y} Horizontal line across columns x through y.
+\multicolumn{n}{cols}{text}
+A cell that spans n columns, with cols column
+specification.
+
+Math mode
+For inline math, use \(...\) or $...$. For displayed math,
+use \[...\] or \begin{equation}.
+Superscriptx
+x
+y
+√
+n
+
+x
+
+^{x}
+\frac{x}{y}
+\sqrt[n]{x}
+
+Subscriptx
+n
+k=1
+n
+k=1
+
+_{x}
+\sum_{k=1}^n
+\prod_{k=1}^n
+
+Math-mode symbols
+≤ \leq
+× \times
+◦ ^{\circ}
+∞ \infty
+⊃ \supset
+⊂ \subset
+∪ \cup
+a˙ \dot a
+α \alpha
+\epsilon
+θ \theta
+λ \lambda
+π \pi
+υ \upsilon
+ω \omega
+Λ \Lambda
+Υ \Upsilon
+
+≥
+÷
+◦
+¬
+∀
+∃
+∩
+a
+ˆ
+β
+ζ
+ι
+µ
+ρ
+φ
+Γ
+Ξ
+Φ
+
+\geq
+\div
+\circ
+\neg
+\forall
+\exists
+\cap
+\hat a
+\beta
+\zeta
+\iota
+\mu
+\rho
+\phi
+\Gamma
+\Xi
+\Phi
+
+= \neq
+± \pm
+\prime
+∧ \wedge
+∈ \in
+∈
+/ \notin
+| \mid
+a
+¯ \bar a
+γ \gamma
+η \eta
+κ \kappa
+ν \nu
+σ \sigma
+χ \chi
+∆ \Delta
+Π \Pi
+Ψ \Psi
+
+Full author list and year. (Watson and Crick
+1953)
+\citeA{key}
+Full author list. (Watson and Crick)
+\citeN{key}
+Full author list and year. Watson and Crick
+(1953)
+\shortcite{key} Abbreviated author list and year. ?
+\shortciteA{key} Abbreviated author list. ?
+\shortciteN{key} Abbreviated author list and year. ?
+\citeyear{key}
+Cite year only. (1953)
+All the above have an NP variant without parentheses; Ex.
+\citeNP.
+\cite{key}
+
+≈
+·
+···
+∨
+→
+⇒
+⇔
+a
+˜
+δ
+ε
+ϑ
+ξ
+τ
+ψ
+Θ
+Σ
+Ω
+
+\approx
+\cdot
+\cdots
+\vee
+\rightarrow
+\Rightarrow
+\Leftrightarrow
+\tilde a
+\delta
+\varepsilon
+\vartheta
+\xi
+\tau
+\psi
+\Theta
+\Sigma
+\Omega
+
+BibTEX entry types
+@article
+@book
+@booklet
+@conference
+@inbook
+@incollection
+@misc
+@phdthesis
+@proceedings
+@techreport
+@unpublished
+
+Journal or magazine article.
+Book with publisher.
+Book without publisher.
+Article in conference proceedings.
+A part of a book and/or range of pages.
+A part of book with its own title.
+If nothing else fits.
+PhD. thesis.
+Proceedings of a conference.
+Tech report, usually numbered in series.
+Unpublished.
+
+BibTEX fields
+Address of publisher. Not necessary for major
+publishers.
+author
+Names of authors, of format ....
+booktitle
+Title of book when part of it is cited.
+chapter
+Chapter or section number.
+edition
+Edition of a book.
+editor
+Names of editors.
+institution Sponsoring institution of tech. report.
+journal
+Journal name.
+key
+Used for cross ref. when no author.
+month
+Month published. Use 3-letter abbreviation.
+note
+Any additional information.
+number
+Number of journal or magazine.
+organization Organization that sponsors a conference.
+pages
+Page range (2,6,9--12).
+publisher
+Publisher’s name.
+school
+Name of school (for thesis).
+series
+Name of series of books.
+title
+Title of work.
+type
+Type of tech. report, ex. “Research Note”.
+volume
+Volume of a journal or book.
+year
+Year of publication.
+Not all fields need to be filled. See example below.
+address
+
+Bibliography and citations
+
+Common BibTEX style files
+
+When using BibTEX, you need to run latex, bibtex, and
+latex twice more to resolve dependencies.
+
+abbrv
+alpha
+plain
+
+Standard
+Standard
+Standard
+
+abstract
+apa
+unsrt
+
+alpha with abstract
+APA
+Unsorted
+
+The LATEX document should have the following two lines just
+before \end{document}, where bibfile.bib is the name of the
+BibTEX file.
+\bibliographystyle{plain}
+\bibliography{bibfile}
+
+BibTEX example
+The BibTEX database goes in a file called file.bib, which is
+processed with bibtex file.
+@String{N = {Na\-ture}}
+@Article{WC:1953,
+author = {James Watson and Francis Crick},
+title
+= {A structure for Deoxyribose Nucleic Acid},
+journal = N,
+volume = {171},
+pages
+= {737},
+year
+= 1953
+}
+
+Sample LATEX document
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\title{Template}
+\author{Name}
+\begin{document}
+\maketitle
+\section{section}
+\subsection*{subsection without number}
+text \textbf{bold text} text. Some math: $2+2=5$
+\subsection{subsection}
+text \emph{emphasized text} text. \cite{WC:1953}
+discovered the structure of DNA.
+A table:
+\begin{table}[!th]
+\begin{tabular}{|l|c|r|}
+\hline
+first & row & data \\
+second & row & data \\
+\hline
+\end{tabular}
+\caption{This is the caption}
+\label{ex:table}
+\end{table}
+The table is numbered \ref{ex:table}.
+\end{document}
+Copyright c 2014 Winston Chang
+http://www.stdout.org/∼winston/latex/
+
+
