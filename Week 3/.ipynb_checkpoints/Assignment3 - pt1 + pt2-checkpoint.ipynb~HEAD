@@ -672,11 +672,7 @@
    "source": [
     "salary_teams = pd.pivot_table(salaries_csv, values=['salary'],\\\n",
     "                        index=['teamID', 'yearID'], aggfunc=np.sum).reset_index()\n",
-    "salary_teams.head()\n",
-    "\n",
-    "totalbirth['NEW'] = totalbirth.mask(lambda x:  )\n",
-    "\n",
-    "totalbirth[max[totalbirth.F, totalbirth.M]\n"
+    "salary_teams.head()\n"
    ]
   },
   {
