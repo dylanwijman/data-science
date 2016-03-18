@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head>
+  <script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_XWzIXRumlb6-8YbvoJz9dast0FUIinT0ZKlYJPyerus.js"></script>
+<script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_oVulLnXahqalb_QNtCCMbjMbgZw2RRfMYAu1rmWFvoU.js"></script>
+
+  <title>Hoe vergelijkt RTL Nieuws de Cito-scores van 2014? - RTL Nieuws</title>
+  <link rel="apple-touch-icon-precomposed" href="/profiles/rtl/themes/rtl/img/apple-touch-icon.png" />
+  <link type="text/css" rel="stylesheet" href="http://www.rtlnieuws.nl/sites/default/files/css/css_rEI_5cK_B9hB4So2yZUtr5weuEV3heuAllCDE6XsIkI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.rtlnieuws.nl/sites/default/files/css/css_tzHP6rkuMmDdN2_nyV6H95ZdmYmcUs9dFX5typ49LXM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.rtlnieuws.nl/sites/default/files/css/css_2CG0hgNBm1MgEw7paK66HkrJOcedmoBMU7w6LO_HN4o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.rtlnieuws.nl/sites/default/files/css/css_cJe1fPPCNsPLjaEPrVhE1pGAtD4K0W0JqaIrtVe6mPM.css" media="all" />
+  <script>
+    var _sf_startpt=(new Date()).getTime();
+  </script>
+  <script type="text/javascript" src="//cdns.gigya.com/js/gigya.js?apiKey=3_I2K9wrsn8Vwx750jYVbnOngTlZJA7Ee1VyWAaIE__b5zPJm5m28nOxZP0bDZz17_">
+    {
+      siteName: 'rtlnieuws.nl',
+      regSource: 'web_3_I2K9wrsn8Vwx750jYVbnOngTlZJA7Ee1VyWAaIE__b5zPJm5m28nOxZP0bDZz17_',
+      sessionExpiration: -2,
+      defaultRegScreenSet : '',
+      defaultMobileRegScreenSet : '',
+      enabledProviders: 'facebook,googleplus,linkedin',
+      lang: 'nl-inf',
+      onAfterScreenLoad:
+      //@todo try to get this into RTL.Gigya however for now the screen fires before that is loaded.
+      function(event) {
+        if (typeof event === 'undefined') {
+          return;
+        }
+        if (event.currentScreen === "gigya-complete-registration-screen") {
+          jQuery('body, html').css('overflow', 'hidden');
+          jQuery('body, html').css('height', '100%');
+          var firstVisit = jQuery('#first_visit').val();
+          if (typeof(firstVisit) === 'undefined' || firstVisit === "") {
+            var d = new Date();
+            jQuery('#first_visit').val(d.toISOString());
+          }
+        }
+      }
+    }
+  </script>
+  <script src="//lib.rtl.nl/ask/1.6.11/ask.min.js"></script>
+  <script>
+    window.rtlInitConfig = {"meta":{"abstractkey":132237,"seasonkey":"","publicatiepunt":"rtlnieuwsnl","type":"article","ui":"942946","titel":"Hoe vergelijkt RTL Nieuws de Cito-scores van 2014? - RTL Nieuws","context":"","nav":"nieuws.binnenland"},"topBar":{"visible":false},"metabar":{"visible":false},"modules":["stats","statsLotame","ads"]};
+    RTL.init(window.rtlInitConfig);
+    // Chartbeat configuration
+    var _sf_async_config={uid:28965,domain:"rtlnieuws.nl",useCanonical:true,sections:"Nieuws Binnenland"};
+  </script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="fb:app_id" content="160761968910" />
+<meta property="og:site_name" content="RTL Nieuws" />
+<link rel="shortcut icon" href="http://www.rtlnieuws.nl/profiles/rtl/themes/rtl/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:title" content="Hoe vergelijkt RTL Nieuws de Cito-scores van 2014?" />
+<meta name="description" content="Lees hier hoe het precies zit met de berekeningen die RTL Nieuws heeft gedaan rond de eindtoetsscores." />
+<meta name="generator" content="Ibuildings" />
+<link rel="canonical" href="http://www.rtlnieuws.nl/nieuws/binnenland/hoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014" />
+<link rel="shortlink" href="http://www.rtlnieuws.nl/node/942946" />
+<link rel="author" href="https://plus.google.com/116859785097165694202" />
+<meta property="og:site_name" content="RTL Nieuws" />
+<meta property="og:title" content="Hoe vergelijkt RTL Nieuws de Cito-scores van 2014?" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="initial-scale=1.0 ,maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <!-- additional opengraph tags -->
+  <meta property="og:image" content="http://www.rtlnieuws.nl/profiles/rtl/themes/rtl/img/rtlnieuws_logo_leaderstill01_placeholder.jpg" />
+    <meta name="google-site-verification" content="1hlUkN36wCYYfH2aEraFf7pFsv3bH1NN7mYEJGiiyOo" />
+  <!-- Note that the following scripts MUST be loaded in the head: -->
+  <script>document.write('<script src="/profiles/rtl/themes/rtl/js/vendor/html5shiv/dist/html5shiv.js">\x3C/script>')</script>
+  <script>document.write('<script src="/profiles/rtl/themes/rtl/js/vendor/respond/respond.min.js">\x3C/script>');</script>
+  <style>
+        .dartHeader.billboard
+        { padding: 0 !important; }
+        .dartHeader.billboard *{
+            padding-top:10px;
+            margin-bottom:10px;
+        }
+    </style></head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-942946 node-type-rtl-content-artikel" >
+  <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WH3MZG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WH3MZG');</script>
+<!-- End Google Tag Manager --><div data-rtldart-pos="oop" style="height:0px;width:0px"></div>  <div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "160761968910",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         oauth : true,
+         channelUrl: "http:\/\/www.rtlnieuws.nl\/fb_social\/channel"
+         });
+  
+         
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/nl_NL/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script>  <div data-rtldart-creative="rich"
+     data-rtldart-format="[970,250],[970,90],[728,90],[2,2]"
+     data-rtldart-pos="billboard" class="dartHeader billboard"></div>
+<div id="canvas"
+     class="hasQuickLinks">
+  <div id="headerPos"></div>
+<div id="networknav">
+  <ul>
+          <li><a href='http://www.rtlnieuws.nl/weekend-magazine'>Weekend Magazine</a></li>
+          <li><a href='http://www.rtlz.nl'>RTL Z</a></li>
+          <li><a href='http://www.buienradar.nl/'>Buienradar</a></li>
+          <li><a href='http://www.routeradar.nl/'>Routeradar</a></li>
+      </ul>
+</div>
+<header id="topHeader" class="quicklinks" >
+  <a id="mobileNav" href="#" data-icon="c"><span>Menu</span></a>
+  <a id="searchButton" href="#" data-icon="b"><span>Zoeken</span></a>
+  <a href="/mijn_rtlnieuws" data-icon="h"
+     id="mijnRTL"><span>Mijn RTL Nieuws</span></a>
+  <h4 id="idtag">
+    <a href="/">
+          </a>
+  </h4>
+  <div id="dailyInfo">
+    <a href="/economie/koersen" class="aex"
+   data-icon="e">
+  AEX 444.67</a>
+    <a href="/verkeer" class="verkeer" data-icon="f">
+  <span id="rtl_traffic_count">2 files</span>
+  <span id="rtl_traffic_length">2km</span>
+</a>
+    <a href="/weer" class="weer bewolkt">
+  <span class="icon">
+    <img src="//xml.buienradar.nl/icons_rtl/p.png"
+         title="bewolkt"
+         alt="bewolkt"/>
+  </span>
+  7  <small>&deg;</small>
+</a>
+  </div>
+  <div id="searchInputMobile">
+    <form class="header-search-form" action="/search/nieuws" method="post"
+          accept-charset="UTF-8">
+      <input type="search" value="zoeken" class="search-field form-text"
+             name="keys" size="20" maxlength="255"/>
+      <!-- input type="submit" class="submit" value="" -->
+    </form>
+  </div>
+  <nav id="mainNav">
+    <div class="container">
+      <ul class="menu"><li class="first expanded"><a href="/" title="">Nieuws</a><ul class="menu"><li class="first leaf"><a href="/nieuws/binnenland" title="">Binnenland</a><ul class="unfold-menu timeline_preview" data-menu-id="404"
+    style="display: none;">
+</ul>
+</li>
+<li class="leaf"><a href="/nieuws/buitenland" title="">Buitenland</a><ul class="unfold-menu timeline_preview" data-menu-id="408"
+    style="display: none;">
+</ul>
+</li>
+<li class="leaf"><a href="/nieuws/politiek" title="">Politiek</a><ul class="unfold-menu timeline_preview" data-menu-id="402"
+    style="display: none;">
+</ul>
+</li>
+<li class="last leaf"><a href="/nieuws/opmerkelijk" title="">Opmerkelijk</a><ul class="unfold-menu timeline_preview" data-menu-id="516"
+    style="display: none;">
+</ul>
+</li>
+</ul></li>
+<li class="expanded"><a href="/economie/home" title="">Economie</a><ul class="menu"><li class="first leaf"><a href="http://www.rtlz.nl" title="">RTLZ</a></li>
+<li class="leaf"><a href="/economie/beurs" title="">Beurs</a></li>
+<li class="leaf"><a href="/economie/koersen">Koersen</a></li>
+<li class="leaf"><a href="/economie/opinie">Opinie</a></li>
+<li class="leaf"><a href="/economie/beursspel" title="">Beursspel</a></li>
+<li class="leaf"><a href="/economie/programmas" title="">Programma&#039;s</a></li>
+<li class="leaf"><a href="/economie/robeco" title="">Robeco</a></li>
+<li class="leaf"><a href="/economie/toekomstmakers" title="">Toekomstmakers</a></li>
+<li class="last leaf"><a href="http://www.rtlnieuws.nl/economie/rtlz-online-seminars/online-seminars-home" title="">Online seminars</a><ul class="unfold-menu timeline_preview" data-menu-id="21246"
+    style="display: none;">
+</ul>
+</li>
+</ul></li>
+<li class="expanded"><a href="/sport" title="">Sport</a><ul class="menu"><li class="first leaf"><a href="/sport/voetbal" title="">Voetbal</a></li>
+<li class="leaf"><a href="/sport/algemeen" title="">Algemeen</a></li>
+<li class="last leaf"><a href="/voetbal/scorebord" title="Scorebord pagina">Scorebord</a></li>
+</ul></li>
+<li class="expanded"><a href="/boulevard" title="">Boulevard</a><ul class="menu"><li class="first leaf"><a href="/boulevard/entertainment" title="">Entertainment</a><ul class="unfold-menu timeline_preview" data-menu-id="546"
+    style="display: none;">
+</ul>
+</li>
+<li class="leaf"><a href="/boulevard/lifestyle" title="">Lifestyle</a><ul class="unfold-menu timeline_preview" data-menu-id="551"
+    style="display: none;">
+</ul>
+</li>
+<li class="leaf"><a href="/boulevard/crime" title="">Crime</a><ul class="unfold-menu timeline_preview" data-menu-id="556"
+    style="display: none;">
+</ul>
+</li>
+<li class="leaf"><a href="/boulevard/royalty" title="">Royalty</a><ul class="unfold-menu timeline_preview" data-menu-id="561"
+    style="display: none;">
+</ul>
+</li>
+<li class="leaf"><a href="http://www.rtlxl.nl/#!/gemist/rtl-boulevard-9652" title="">Boulevard gemist</a></li>
+<li class="last leaf"><a href="/boulevard/foto" title="">Gallery</a><ul class="unfold-menu timeline_preview" data-menu-id="566"
+    style="display: none;">
+</ul>
+</li>
+</ul></li>
+<li class="expanded"><a href="/editienl" title="">Editie NL</a><ul class="menu"><li class="first leaf"><a href="/editienl/over-ons" title="">Over Ons</a></li>
+<li class="last leaf"><a href="/editienl/testpanel" title="">Testpanel</a></li>
+</ul></li>
+<li class="leaf"><a href="/video" title="">Video</a></li>
+<li class="leaf"><a href="/nieuws/columns" title="Columns">Columns</a></li>
+<li class="last leaf"><a href="/buurtfacts" title="">Buurtfacts</a></li>
+</ul>      <ul class="menu networknav">
+  <li class="expanded">
+    <a>Meer</a>
+    <ul class="menu">
+              <li class="leaf">
+          <a href='http://www.rtlnieuws.nl/weekend-magazine'>Weekend Magazine</a>
+        </li>
+              <li class="leaf">
+          <a href='http://www.rtlz.nl'>RTL Z</a>
+        </li>
+              <li class="leaf">
+          <a href='http://www.buienradar.nl/'>Buienradar</a>
+        </li>
+              <li class="leaf">
+          <a href='http://www.routeradar.nl/'>Routeradar</a>
+        </li>
+          </ul>
+  </li>
+</ul>
+      <a href="/mijn_rtlnieuws" data-icon="h" id="mijnRTLDesktop"><span>Mijn RTL Nieuws</span></a>
+      <form class="header-search-form" action="/search/nieuws" method="post"
+            accept-charset="UTF-8">
+        <input type="search" class="search-field form-text" name="keys"
+               size="20" maxlength="255" value="Zoeken"/>
+        <button type="submit" class="submit icon-magnifier" value=""
+                data-icon="b"></button>
+      </form>
+    </div>
+  </nav>
+</header>
+<div id="quicklinks"><div class="container"><span class="label">Volg vandaag:</span><ul class="menu"><li class="first leaf"><a href="http://www.rtlnieuws.nl/proces-wilders" title="">• Special: Alles over het Wilders-proces</a></li>
+<li class="leaf"><a href="/node/1942821/" title="">• &#039;Barbaarse actie PSV-fans&#039;</a></li>
+<li class="last leaf"><a href="/node/1942826/" title="">• Dodelijke arrestatie in Eindhoven</a></li>
+</ul></div>
+</div>    <div id="page" class="start">
+    <div id="scrollToTopButton" style="display: none;"></div>
+    <div id="column">
+      <div style="margin-bottom: 20px;" data-rtldart-creative="rich" data-rtldart-format="[300,600],[336,1050],[300,1050]" data-rtldart-pos="halfpage"></div><!--nodequeue_topstories_7_v2-->
+<section class="style-v2 sidebarList">
+
+  <div class="labelTag">
+    <h6>Topnieuws</h6>
+  </div>
+
+  <article>
+  <a href="/nieuws/binnenland/wildersproces-live-van-twee-kanten-aangevallen"><img alt="Wildersproces live: &#039;Van twee kanten aangevallen&#039;"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_2/public/content/images/2016/03/18/ANP-1600_43008669_0.jpg?itok=34T9QQ00" width="600" height="336" /></a>
+  
+
+  
+  <h5><a href="/nieuws/binnenland/wildersproces-live-van-twee-kanten-aangevallen">Wildersproces live: &#039;Van twee kanten aangevallen&#039;</a></h5>
+
+
+</article>
+<article>
+  <a href="/nieuws/binnenland/schippers-gedrag-psv-fans-te-walgelijk-voor-woorden"><img alt="Schippers: &#039;Gedrag PSV-fans te walgelijk voor woorden&#039;"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/2016/03/15/psv_0.jpg?itok=cNbNgcHW" width="80" height="60" /></a>
+  
+
+      <p class="story-title"><a href="/sport/voetbal/psv-fans-vernederen-bedelaars">PSV-fans vernederen bedelaars</a></p>
+  
+  <h5><a href="/nieuws/binnenland/schippers-gedrag-psv-fans-te-walgelijk-voor-woorden">Schippers: &#039;Gedrag PSV-fans te walgelijk voor woorden&#039;</a></h5>
+
+
+</article>
+<article>
+  <a href="/nieuws/binnenland/strenger-hotelbeleid-amsterdam-moet-toeristenstroom-afremmen"><img alt="Strenger hotelbeleid Amsterdam moet toeristenstroom afremmen"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/2015/04/03/ANP-AMSTERDAM-DRUKTE-TOERISTEN_0.jpg?itok=PfPL4vJ5" width="80" height="60" /></a>
+  
+
+  
+  <h5><a href="/nieuws/binnenland/strenger-hotelbeleid-amsterdam-moet-toeristenstroom-afremmen">Strenger hotelbeleid Amsterdam moet toeristenstroom afremmen</a></h5>
+
+
+</article>
+<article>
+  <a href="/nieuws/binnenland/wilders-bedreigd-en-vervolgd-zijn-werk-wordt-nu-door-twee-kanten-aangevallen"><img alt="Wilders bedreigd en vervolgd: &#039;Zijn werk wordt nu door twee kanten aangevallen&#039;"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/2016/03/18/ANP-43008298_0.jpg?itok=PCm6QxkK" width="80" height="60" /></a>
+  
+
+  
+  <h5><a href="/nieuws/binnenland/wilders-bedreigd-en-vervolgd-zijn-werk-wordt-nu-door-twee-kanten-aangevallen">Wilders bedreigd en vervolgd: &#039;Zijn werk wordt nu door twee kanten aangevallen&#039;</a></h5>
+
+
+</article>
+<article>
+  <a href="/nieuws/opmerkelijk/bogota-bogata-snoop-dogg-zet-met-foutje-roemeens-dorp-op-de-kaart"><img alt="Bogotá of Bogata: Snoop Dogg zet met foutje Roemeens dorp op de kaart"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/archive/f4/snoop-dogg-betaalt-half-miljoen-aan-fiscus.jpg?itok=o7Pt_6sw" width="80" height="60" /></a>
+  
+
+  
+  <h5><a href="/nieuws/opmerkelijk/bogota-bogata-snoop-dogg-zet-met-foutje-roemeens-dorp-op-de-kaart">Bogotá of Bogata: Snoop Dogg zet met foutje Roemeens dorp op de kaart</a></h5>
+
+
+</article>
+<article>
+  <a href="/sport/voetbal/blind-haalt-janssen-en-letschert-bij-oranje"><img alt="Blind haalt Janssen en Letschert bij Oranje"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/2016/03/18/ANP180316110-1.jpeg?itok=tyvZjEL-" width="80" height="60" /></a>
+  
+
+  
+  <h5><a href="/sport/voetbal/blind-haalt-janssen-en-letschert-bij-oranje">Blind haalt Janssen en Letschert bij Oranje</a></h5>
+
+
+</article>
+<article>
+  <a href="/economie/home/vd-volgende-week-weer-open-voor-laatste-uitverkoop"><img alt="V&amp;D volgende week weer open voor laatste uitverkoop"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/2016/03/18/vd_0.jpg?itok=mdRbyUKX" width="80" height="60" /></a>
+  
+
+  
+  <h5><a href="/economie/home/vd-volgende-week-weer-open-voor-laatste-uitverkoop">V&amp;D volgende week weer open voor laatste uitverkoop</a></h5>
+
+
+</article>
+<article>
+  <a href="/economie/toekomstmakers/slimme-auto-kan-verkeerslicht-overbodig-maken"><img alt="Slimme auto kan verkeerslicht overbodig maken"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/2015/09/16/EPA_zelfrijdende_auto_0.jpg?itok=2P9ZPpFN" width="80" height="60" /></a>
+  
+
+  
+  <h5><a href="/economie/toekomstmakers/slimme-auto-kan-verkeerslicht-overbodig-maken">Slimme auto kan verkeerslicht overbodig maken</a></h5>
+
+
+</article>
+<article>
+  <a href="/nieuws/buitenland/meer-olifanten-en-leeuwen-namibie-maar-bedreiging-blijft"><img alt="Meer olifanten en leeuwen in Namibië, maar bedreiging blijft"  src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_small_2/public/content/images/2016/03/18/olifant169_0.jpg?itok=LgdPVxj0" width="80" height="60" /></a>
+  
+
+  
+  <h5><a href="/nieuws/buitenland/meer-olifanten-en-leeuwen-namibie-maar-bedreiging-blijft">Meer olifanten en leeuwen in Namibië, maar bedreiging blijft</a></h5>
+
+
+</article>
+  <a class="seeMoreButton" href="#">meer stories</a> 
+
+</section>
+<!--nodequeue_topstories_331_v12-->
+<section class="mostRead">
+  <div class="labelTag">
+    <h6>Meest gelezen: Binnenland</h6>
+  </div>
+  <article>
+	<span>1</span>
+	<p class="story-title"><a href="/node/" ></a></p>
+	<h5><a href="/nieuws/binnenland/wildersproces-live-van-twee-kanten-aangevallen">Wildersproces live: &#039;Van twee kanten aangevallen&#039;</a></h5>
+</article>
+<article>
+	<span>2</span>
+	<p class="story-title"><a href="/node/" ></a></p>
+	<h5><a href="/nieuws/binnenland/juweliersvrouw-margo-mijn-man-dood-door-een-marokkaan">Juweliersvrouw Margo: &#039;Mijn man is dood door een Marokkaan&#039;</a></h5>
+</article>
+<article>
+	<span>3</span>
+	<p class="story-title"><a href="/node/" ></a></p>
+	<h5><a href="/nieuws/binnenland/donny-marokkanen-vallen-mij-lastig-omdat-ik-homo-ben">Donny: &#039;Marokkanen vallen mij lastig omdat ik homo ben&#039;</a></h5>
+</article>
+<article>
+	<span>4</span>
+	<p class="story-title"><a href="/node/" ></a></p>
+	<h5><a href="/nieuws/binnenland/kinderleidster-vergeet-kleuter-ergste-nachtmerrie">Kinderleidster vergeet kleuter: &#039;Ergste nachtmerrie&#039;</a></h5>
+</article>
+<article>
+	<span>5</span>
+	<p class="story-title"><a href="/nieuws/binnenland/onthoofde-man-amsterdam" >Onthoofde man in Amsterdam</a></p>
+	<h5><a href="/nieuws/binnenland/stille-tocht-voor-vermoorde-nabil-amzieb">Stille tocht voor vermoorde Nabil Amzieb </a></h5>
+</article>
+</section>
+  
+<article data-created="1457279280" class="promo">
+
+  
+  <a href="/nieuws/binnenland/de-rechter-moet-zeggen-dit-kan-niet-dit-haatzaaien">
+
+          
+
+        <figure>
+  <img src="http://www.rtlnieuws.nl/sites/default/files/styles/sidebar_2/public/content/images/2016/03/09/sanne-2_0.jpg?itok=Om27QWB0" width="600" height="336" alt="&#039;De rechter moet zeggen: dit kan niet, dit is haatzaaien&#039;" />
+    </figure>
+
+      
+
+    <div class="body">
+
+              <h2>Sanne vindt Wilders-proces terecht</h2>
+      
+              <p>&#039;De rechter moet zeggen: dit kan niet, dit is haatzaaien&#039;</p>
+      
+    </div>
+
+  </a>
+
+</article>
+
+<section class="style-video sidebarList">
+
+  <div class="labelTag">
+    <h6>Laatste uitzending</h6>
+  </div>
+
+  <div class="videoWrapper">
+    <iframe class="rtl_video" src="//www.rtl.nl/system/videoplayer/derden/rtlnieuws/video_embed.html#uuid=d6ce3f8e-1733-30a5-85b2-b2dff466b6c8/autoplay=false"></iframe>
+  </div>
+
+</section>
+    </div>
+    <div id="main" class="">
+      
+<div class="[ box  box--flush ] storybox storybox--top">
+      <h2 class="storybox__header">
+      <a href='/nieuws/binnenland/cito-scores-2014'>Cito-scores 2014        <span class="storybox__amount">(5)</span>
+      </a>
+    </h2>
+    
+<hr class="storybox-divider"/>
+
+<div class="media  media--rev  media--flush  media-article media--image">
+      <a  href='/nieuws/binnenland/cito-scores-2014' class="media__link">
+      <img
+          src="http://www.rtlnieuws.nl/sites/default/files/styles/teaser_2/public/content/images/2013/11/19/ANP-Cito_0.jpg?itok=806ypj4C"
+          alt="" class="media__img"/>
+    </a>
+  
+  <div class="media__body">
+    <div class="media__tagline" data-icon="o">
+      <div
+        class="timer">08 juli 2014 17:59</div>
+    </div>
+    <h2 class="media-article__title"><a
+        href="/nieuws/binnenland/beste-cito-scores-bussum">Beste Cito-scores in Bussum</a>
+          </h2>
+  </div>
+</div>
+
+  </div>
+
+
+    <article data-created="1404736020" class="news      in_story">
+        <div class="anchor" id="node_942946"></div>        
+        <div class="body">
+
+            
+            <div class="tagline" data-icon="g">
+
+                <div class="timer">07 juli 2014 14:27, in: </div>
+
+                
+                                  <h2><a href="/nieuws/binnenland/cito-scores-2014">Cito-scores 2014</a></h2>                
+                            </div>
+            <h1 class="article__title">Hoe vergelijkt RTL Nieuws de Cito-scores van 2014?</h1>            <div class="content">
+                                <div class="paragraph">
+                    <div class="paragraph"><p>Lees hier hoe het precies zit met de berekeningen die RTL Nieuws heeft gedaan rond de eindtoetsscores.</p></div><p><strong>1. Hoe vergelijkt&nbsp;RTL&nbsp;Nieuws de&nbsp;eindtoetsscores&nbsp;van de basisscholen?</strong><br />Omdat scholen niet zomaar te vergelijken zijn, heeft&nbsp;RTL&nbsp;Nieuws&nbsp;een methode ontwikkeld om de score van een school af te zetten tegen vergelijkbare scholen.&nbsp;De methode lijkt op de methode die RTL&nbsp;Nieuws in november 2013 samen met onderwijssocioloog professor Jaap Dronkers&nbsp;van de Universiteit Maastricht gebruikte, maar is op een paar kleine punten aangepast.&nbsp;<a href="http://www.rtlnieuws.nl/sites/default/files/content/documents/2014/07/07/toelichting.pdf" target="_blank">Lees hier de precieze berekening&nbsp;achter die vergelijking.</a>&nbsp;</p><p><strong>2. Hoe komt&nbsp;RTL&nbsp;Nieuws aan de rapportcijfers voor scholen?</strong><br />De berekening geeft voor iedere school een zogenoemd residu. Dat is het aantal standaardafwijkingen dat een school boven of onder de &#39;verwachte waarde&#39;, oftewel het gemiddelde van vergelijkbare scholen, zit.&nbsp;<br />&nbsp;<br />Een residu van 0 is door ons omgezet naar een 7, en voor iedere standaardafwijking naar boven of naar beneden&nbsp;komt er respectievelijk 1 punt bij of gaat er 1 punt af. Wie 1 standaardafwijking boven vergelijkbare scholen zit krijgt een 8, wie juist 1 standaardafwijking daaronder scoort, krijgt een 6.&nbsp;Enkele scores kwamen onder de 4 uit, die zijn afgerond naar een 4. Een score kwam boven de 10 uit, die is&nbsp;afgerond tot een 10.<br />&nbsp; &nbsp;<br /><strong>3. Welke toetsen zijn meegerekend?</strong><br />Het gaat om&nbsp;eindtoetsen&nbsp;afgenomen door basisscholen in 2012, 2013 en 2014. Alleen als er 5 of meer deelnemers aan de toets waren, is de toets meegenomen. Naast de Cito-toets zijn ook de&nbsp;SEO-score,&nbsp;vaardigheidsscores&nbsp;uit het leerlingvolgsysteem, de score voor de&nbsp;drempeltoets&nbsp;en scholen die Cito-toets en&nbsp;drempeltoets&nbsp;combineren meegenomen. Andere&nbsp;eindtoetsgegevens&nbsp;zijn niet voor dit overzicht gebruikt.<br />&nbsp;<br /><strong>4. Welke scholen zijn meegerekend?</strong><br />Elke school waarvan voor ten minste twee jaren een score is berekend, én waarvan gegevens over de achtergrond van de leerlingen bekend zijn, is meegerekend.<br />&nbsp;<br /><strong>5. Welke gegevens zijn gebruikt voor het berekenen van de scores?</strong><br />RTL Nieuws heeft eerder van het ministerie van Onderwijs een databestand ontvangen met daarin gegevens van de onderwijsinspectie over de eindtoets van scholen uit de jaren en 2011/2012. Daarna hebben wij een nieuw bestand gekregen, met daarin de informatie over 2012/2013 en nu de nieuwste informatie over 2013/2014. <a href="http://www.rtlnieuws.nl/sites/default/files/content/documents/2014/07/07/scholenoverzicht_0.xls" target="_blank">Bekijk alle informatie per school en de uitkomsten in dit Excel-bestand</a>.</p><p>Het gaat om gemiddelde scores en aantallen deelnemers aan de toetsen. Deze cijfers zijn vergeleken met informatie van het ministerie van Onderwijs over het aantal leerlingen met&nbsp;laag opgeleide ouders per school&nbsp;(per 1 oktober 2013) en viercijferige postcodes van leerlingen&nbsp;(per 1 oktober 2013).</p><p>Daarnaast maakten wij gebruik van de variabele &#39;bevolkingssamenstelling&#39;&nbsp;uit de&nbsp;Leefbaarometer&nbsp;van het ministerie van Binnenlandse Zaken, uitgave 2012 en informatie van het CBS over de inkomens en opleidingsniveaus van mensen per viercijferig postcodegebied.</p>                </div>
+                                    <div class="copyright">RTL Nieuws</div>
+                            </div>
+        </div>
+
+        
+        <footer class="article__footer">
+                
+<ul class="social"
+    data-social-url-facebook="http://www.rtlnieuws.nl/node/942946"
+    data-social-url-twitter="http://www.rtlnieuws.nl/nieuws/binnenland/hoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014">
+  <li class="twitter">
+    <a href="//twitter.com/intent/tweet?url=http%3A%2F%2Fwww.rtlnieuws.nl%2Fnieuws%2Fbinnenland%2Fhoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014&amp;text=Hoe+vergelijkt+RTL+Nieuws+de+Cito-scores+van+2014%3F"
+       target="_blank"
+       data-icon="l"
+       title="aantal keren gedeeld met Twitter">
+    </a>
+  </li>
+  <li class="facebook">
+    <a href="//facebook.com/sharer.php?u=http%3A%2F%2Fwww.rtlnieuws.nl%2Fnieuws%2Fbinnenland%2Fhoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014&amp;t=Hoe+vergelijkt+RTL+Nieuws+de+Cito-scores+van+2014%3F"
+       target="_blank"
+       data-icon="j"
+       title="Aantal keren gepost op Facebook">
+    </a>
+  </li>
+  <li class="comments">
+    <a href="//facebook.com/sharer.php?u=http%3A%2F%2Fwww.rtlnieuws.nl%2Fnieuws%2Fbinnenland%2Fhoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014&amp;t=Hoe+vergelijkt+RTL+Nieuws+de+Cito-scores+van+2014%3F"
+       target="_blank"
+       data-icon="i"
+       title="Aantal comments">
+    </a>
+  </li>
+  <li class="mail"><a
+      href="/cdn-cgi/l/email-protection#e9d69a9c8b838c8a9dd4ae8c93808c87ccdbd98b8083ccdbd9bbbda5ccdbd9a7808c9c9e9accdaa8ccdbd9a1868cccdbd99f8c9b8e8c858083829dccdbd9bbbda5ccX20Nieuws%20de%20Cito-scores%20van%202014%3F&amp;body=Dit%20heb%20ik%20gezien%20bij%20RTL%20Nieuws%3A%20Hoe%20vergelijkt%20RTL%20Nieuws%20de%20Cito-scores%20van%202014%3F%20http%3A%2F%2Fwww.rtlnieuws.nl%2Fnieuws%2Fbinnenland%2Fhoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014"
+      data-icon="k" title="Aantal keren gemaild"></a>
+  </li>
+  <li class="whatsapp" style="display: none">
+    <a href="whatsapp://send?text=Hoe%20vergelijkt%20RTL%20Nieuws%20de%20Cito-scores%20van%202014%3F%20%0Ahttp%3A%2F%2Fwww.rtlnieuws.nl%2Fnieuws%2Fbinnenland%2Fhoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014"
+       data-href="http://www.rtlnieuws.nl/nieuws/binnenland/hoe-vergelijkt-rtl-nieuws-de-cito-scores-van-2014"></a>
+  </li>
+</ul>
+<div class="rtlFollowLink articleFollowLink"
+     data-channel-id="story-944026" >
+  <div style="display: none" class="popup_text">
+    <p>
+      Volg als eerste nieuwe updates over: Cito-scores 2014    </p>
+  </div>
+  <div style="display: none" class="popup_text_not_logged_in">
+    <p>
+      "Wil jij dit nieuwsverhaal volgen? Ga dan naar ‘Mijn RTL Nieuws’ en meld je aan."
+    </p>
+    <a href='/rtl_nieuws'>Mijn RTL Nieuws</a>
+  </div>
+
+  <a class="follow"
+     title="Cito-scores 2014"
+     href="/follow/story/944026">
+    Volg
+  </a>
+  <a style="display: none" class="unfollow"
+     title="Cito-scores 2014"
+     href="/unfollow/story/944026">
+    Ontvolg
+  </a>
+</div>
+        </footer>
+
+    </article>
+
+<div class="[ box  box--flush ] storybox storybox--footer">
+
+  
+  
+
+
+<div class="media  media--rev  media-article  media--image">
+    
+    <a class='media__link' href="/nieuws/binnenland/cito-scores-2014-vergelijk-scholen-jouw-gemeente">
+        <div class="overlay"></div>
+         
+    </a>
+
+    <div class="media__body">
+        <div class="media__tagline">
+            <div
+                class="timer">07 juli 2014 06:12            </div>
+        </div>
+
+                    <h2 class="media-article__title">
+                <a href="/nieuws/binnenland/cito-scores-2014-vergelijk-scholen-jouw-gemeente">Cito-scores 2014: Vergelijk scholen in jouw gemeente</a>
+            </h2>
+             </div>
+</div>
+
+      <h2 class="storybox__header storybox__header--bottom">
+      <a href="/nieuws/binnenland/cito-scores-2014">
+        Cito-scores 2014        <span class="storybox__amount">(5)</span>
+      </a>
+    </h2>
+  </div>
+
+    <script>_sf_async_config.authors = "RTL Nieuws";</script>
+
+<div class="dart-footer">
+   <div class="rtldart" data-rtldart-pos="advertorial" data-rtldart-format="[620,280]" data-rtldart-creative="simple"></div></div>
+
+  <div class="comments">
+    <div class="fb-social-comments-plugin">
+  <div  class="fb-comments" data-numposts="10" data-width="" data-colorscheme="light" data-migrated="1" data-href="http://www.rtlnieuws.nl/node/942946"></div>
+</div>
+  </div> <script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+    if(!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/4ef003cd4bb8.js"); } else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/4d78f01eca57.js"); }/*]]>{/literal}*/</script>    </div>
+  </div>
+          <footer id="footer">
+  <h5>RTL Nieuws</h5>
+  <ul>
+          <li>
+        <h6>Over RTL Nieuws</h6>
+        <ul>
+                      <li>
+              <a href="http://pressroom.rtl.nl/rtl-nieuws/persberichten">
+                Algemene informatie              </a>
+            </li>
+              <li>
+              <a href="http://pressroom.rtl.nl/rtl-nieuws/over-ons">
+                Onze mensen              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/service/rtlnederland/werkenbijrtl/">
+                Vacatures              </a>
+            </li>
+              <li>
+              <a href="http://www.adverterenbijrtl.nl/Adverteren/thema/rtl-nieuws">
+                Adverteren              </a>
+            </li>
+              <li>
+              <a href="http://publieksservice.rtl.nl/vragen">
+                Veelgestelde vragen              </a>
+            </li>
+              <li>
+              <a href="http://www.rtlnieuws.nl/over-rtl-nieuws/contact">
+                Colofon              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/service/copyright/">
+                Gebruikersvoorwaarden              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/service/disclaimer/">
+                Privacy- en cookiestatement              </a>
+            </li>
+          </ul>
+      </li>
+        <li>
+        <h6>Apps & social media </h6>
+        <ul>
+                      <li>
+              <a href="https://play.google.com/store/apps/details?id=nl.rtl.rtlnieuws">
+                Android smartphone app                </a>
+            </li>
+              <li>
+              <a href="https://play.google.com/store/apps/details?id=nl.rtl.rtlnieuws365">
+                Android tablet app                </a>
+            </li>
+              <li>
+              <a href="https://itunes.apple.com/nl/app/rtl-nieuws-mobile/id586030236?mt=8 ">
+                iPhone app              </a>
+            </li>
+              <li>
+              <a href="https://itunes.apple.com/nl/app/rtl-nieuws/id486518266?mt=8">
+                iPad app              </a>
+            </li>
+              <li>
+              <a href="http://apps.microsoft.com/windows/nl-nl/app/rtl-nieuws/5b3c866c-3c40-4ba7-966b-a68912a967dd">
+                Windows app              </a>
+            </li>
+              <li>
+              <a href="http://www.windowsphone.com/nl-nl/store/app/rtl-nieuws/cadcd15b-7f8f-4352-9a0b-301531440b28">
+                Windows Phone app              </a>
+            </li>
+              <li>
+              <a href="https://www.facebook.com/rtlnieuws">
+                Facebook              </a>
+            </li>
+              <li>
+              <a href="https://twitter.com/rtlnieuws">
+                Twitter              </a>
+            </li>
+              <li>
+              <a href="http://www.rtlnieuws.nl/rss-feeds ">
+                RSS              </a>
+            </li>
+          </ul>
+      </li>
+        <li>
+        <h6>Contact</h6>
+        <ul>
+                      <li>
+              <a href="http://www.rtlnieuws.nl/over-rtl-nieuws/contact">
+                Tip de redactie              </a>
+            </li>
+              <li>
+              <a href="http://www.rtlnieuws.nl/klachten-over-de-website-app">
+                Klachten over site of app              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/service/rtlnederland/publieksvoorlichting/faq_new/home/">
+                Publieksservice              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/service/rtlnederland/pressroom/home/">
+                Pers              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/service/rtlnederland/corporate/contactenroute/">
+                Route              </a>
+            </li>
+          </ul>
+      </li>
+        <li>
+        <h6>RTL Websites</h6>
+        <ul>
+                      <li>
+              <a href="http://www.rtl.nl/experience/rtlnl/">
+                RTL.nl              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/xl/">
+                RTLXL.nl              </a>
+            </li>
+              <li>
+              <a href="http://buienradar.nl/">
+                Buienradar              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/service/gids/">
+                TV Gids              </a>
+            </li>
+              <li>
+              <a href="http://www.rtl.nl/videotext/index.xml">
+                Teletext              </a>
+            </li>
+          </ul>
+      </li>
+    </ul>
+</footer>
+</div>
+  <script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_JLxuxbhhrFRy-sBnijHkR0TGGHgiukMPv94zvDWgQ3g.js"></script>
+<script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_N2yhN0YkV_OhTQ11lF9eqS0FhbJUx26Cx6xKalUkQhU.js"></script>
+<script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_5j7URaQFbMNFpi5Q1zOVGt3mA5DazxvWDm5WYb45Dds.js"></script>
+<script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_dGr8yb87-xlEWvMXl67FMd5r5pofCrjyFaMSMLpxopw.js"></script>
+<script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_4GuxEGekO_eX-JWe1d_pkuRxiFDnsbNdCIKIdOGRDxs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"rtl","theme_token":"P2lqTuZDhOt6sSbIWsRkkP4nxct_eRdXyRXtcVTEOz4","js":{"profiles\/rtl\/modules\/custom\/rtl_cookiewall\/js\/wallsettings.js":1,"profiles\/rtl\/modules\/custom\/rtl_cookiewall\/js\/client.js":1,"profiles\/rtl\/modules\/custom\/rtl_follow\/js\/rtl_follow.js":1,"profiles\/rtl\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/rtl\/modules\/custom\/rtl_templates\/js\/namespace.js":1,"profiles\/rtl\/modules\/custom\/rtl_templates\/js\/social\/mapper\/FacebookStatsMapper.js":1,"profiles\/rtl\/modules\/custom\/rtl_templates\/js\/social\/mapper\/TwitterStatsMapper.js":1,"profiles\/rtl\/modules\/custom\/rtl_templates\/js\/social\/model\/FacebookStats.js":1,"profiles\/rtl\/modules\/custom\/rtl_templates\/js\/social\/RTLNieuwsSocialService.js":1,"profiles\/rtl\/modules\/custom\/rtl_templates\/js\/social\/Social.js":1,"profiles\/rtl\/modules\/custom\/rtl_identity\/modules\/rtl_gigya\/js\/rtl_gigya_password.js":1,"profiles\/rtl\/modules\/custom\/rtl_identity\/modules\/rtl_gigya\/js\/rtl_gigya_newsletter.js":1,"profiles\/rtl\/modules\/custom\/rtl_identity\/modules\/rtl_gigya\/js\/rtl_gigya.js":1,"profiles\/rtl\/modules\/custom\/rtl_social\/js\/rtl-social-count.js":1,"public:\/\/languages\/nl_LhVJLALuNoDgHHuX-5f7uztNmMZezPitvv5_Pmcd-rc.js":1,"profiles\/rtl\/modules\/contrib\/adsense\/contrib\/adsense_click\/adsense_click.js":1,"profiles\/rtl\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"profiles\/rtl\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.js":1,"profiles\/rtl\/modules\/contrib\/field_slideshow\/field_slideshow.js":1,"profiles\/rtl\/modules\/contrib\/pollanon\/js\/jquery.cookie.min.js":1,"profiles\/rtl\/modules\/custom\/rtl_menu_preview\/js\/menu_preview.js":1,"profiles\/rtl\/modules\/features\/rtl_poll\/js\/pollanon.js":1,"profiles\/rtl\/modules\/features\/rtl_poll\/js\/rtlpoll.js":1,"profiles\/rtl\/modules\/custom\/rtl_custom\/js\/videoresize.js":1,"profiles\/rtl\/themes\/rtl\/js\/vendor\/console-polyfill\/index.js":1,"profiles\/rtl\/themes\/rtl\/js\/vendor\/jquery.retina\/jquery.retina.js":1,"profiles\/rtl\/themes\/rtl\/js\/vendor\/screw-default-buttons-v2\/js\/jquery.screwdefaultbuttonsV2.min.js":1,"profiles\/rtl\/themes\/rtl\/js\/vendor\/ticker\/js\/ticker.js":1,"profiles\/rtl\/themes\/rtl\/js\/traffic.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/aggregator\/aggregator.css":1,"profiles\/rtl\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/rtl\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"profiles\/rtl\/modules\/contrib\/relation_add\/relation_add.css":1,"modules\/search\/search.css":1,"profiles\/rtl\/modules\/contrib\/views\/css\/views.css":1,"profiles\/rtl\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/rtl\/modules\/contrib\/field_slideshow\/field_slideshow.css":1,"profiles\/rtl\/modules\/contrib\/pollanon\/pollanon.css":1,"profiles\/rtl\/themes\/rtl\/css\/style.css":1}},"rtl_follow":{"mijn_nieuws_path":"mijn_rtlnieuws"}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="http://www.rtlnieuws.nl/sites/default/files/js/js_AM0YoDRuyZ8D1RJStx0mep2WIBHpiIvjwk_lRlAgSrI.js"></script>
+
+    <script src="/profiles/rtl/themes/rtl/js/vendor/jquery.colorbox-min.js"></script>
+  <script src="/profiles/rtl/themes/rtl/js/vendor/jquery.flexslider-min.js"></script>
+  <script src="/profiles/rtl/themes/rtl/js/vendor/jquery.scrollTo.min.js"></script>
+  <script src="/profiles/rtl/themes/rtl/js/vendor/jquery.matchHeight.js"></script>
+  <script src="/profiles/rtl/themes/rtl/js/vendor/jquery.watch.min.js"></script>
+  <script src="/profiles/rtl/themes/rtl/js/vendor/requirejs/require.js"></script>
+  <script src="/profiles/rtl/themes/rtl/js/main.config.js?cb=1458306291"></script>
+  <script src="/profiles/rtl/themes/rtl/js/main.min.js?cb=1458306291"></script>
+
+  <script>
+    // enable share button on Android
+    jQuery(document).ready(function() {
+      jQuery('li.share').bind('click', function(e) {
+        //e.preventDefault();
+        jQuery(this).toggleClass('active');
+      });
+    });
+  </script>
+
+  <script>
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  </script>
+
+  <div class="isMobile"></div>
+  <div class="isTablet"></div>
+  <div class="isDesktop"></div>
+
+  <script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>
